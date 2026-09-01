@@ -1,0 +1,8 @@
+{
+  "name": "PyLage UI",
+  "description": "Reactive Python UI framework showcase and interactive component playground for building dashboards, forms, and web apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
